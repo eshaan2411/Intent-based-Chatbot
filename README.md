@@ -6,6 +6,6 @@ The <strong><i>intent.json</i></strong> file contains the required tags, pattern
 <hr style="width:25%;">
 <h2>Demo</h2>
 
-<video width="500px" height="500px" autoplay>
+<video autoplay>
   <source src="https://github.com/eshaan2411/Intent-based-Chatbot/blob/main/samples/chatbot_demo.mp4" type="video/mp4">
 </video>
