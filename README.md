@@ -23,7 +23,7 @@ The <strong><i>intent.json</i></strong> file contains the required tags, pattern
   <li><strong>Step 1. </strong>Clone the repository</li>
   <li><strong>Step 2. </strong>Add the required tags, patterns, and responses in <i>intent.json</i> file</li>
   <li><strong>Step 3. </strong>Delete the <i>words.pkl</i>, <i>classes.pkl</i>, and <i>chatbot.h5</i> files</li>
-  <li><strong>Step 4. </strong>Optional - You can change or play with Neural Network Architecture to suit your requirements</li>
+  <li><strong>Optional - </strong>You can change or play with Neural Network Architecture to suit your requirements</li>
   <li><strong>Step 4. </strong>Run the <i>model.py</i> file to train your model on custom intents</li>
-  <li><strong>Step 4. </strong>Run the <i>chatbot_application.py</i> file</li>
+  <li><strong>Step 5. </strong>Run the <i>chatbot_application.py</i> file</li>
 </ul>
