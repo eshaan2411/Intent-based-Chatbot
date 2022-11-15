@@ -5,7 +5,7 @@ The <strong><i>intent.json</i></strong> file contains the required tags, pattern
 
 <hr style="width:25%;">
 <h2>Demo</h2>
-<img src="https://github.com/eshaan2411/Intent-based-Chatbot/blob/main/samples/chatbot_demo.gif">
+<img src="https://github.com/eshaan2411/Intent-based-Chatbot/blob/main/samples/chatbot_demo.gif" style="text-align: center;">
 
 <hr style="width:10%;">
 
