@@ -13,3 +13,8 @@ The <strong><i>intent.json</i></strong> file contains the required tags, pattern
 
 <hr style="width:25%;">
 <h3> Run in a local system</h3>
+<br>
+<ul>
+  <li><strong>Step 1. </strong>Clone the repository</li>
+  <li><strong>Step 2. </strong>Run the chatbot_application.py file</li>
+</ul>
