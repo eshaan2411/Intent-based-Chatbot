@@ -3,3 +3,6 @@ An automated open-source chatbot that classifies the intents of user input using
 <br><br>
 The <strong><i>intent.json</i></strong> file contains the required tags, patterns, and responses for classification.
 
+<hr style="width:50%;">
+## Demo
+
