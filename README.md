@@ -12,9 +12,18 @@ The <strong><i>intent.json</i></strong> file contains the required tags, pattern
 <img src="https://github.com/eshaan2411/Intent-based-Chatbot/blob/main/samples/demo.png">
 
 <hr style="width:25%;">
-<h3> Run in a local system</h3>
-<br>
+<h3>Run in a local system</h3>
 <ul>
   <li><strong>Step 1. </strong>Clone the repository</li>
-  <li><strong>Step 2. </strong>Run the chatbot_application.py file</li>
+  <li><strong>Step 2. </strong>Run the <i>chatbot_application.py</i> file</li>
+</ul>
+
+<h3>Train using Custom intents</h3>
+<ul>
+  <li><strong>Step 1. </strong>Clone the repository</li>
+  <li><strong>Step 2. </strong>Add the required tags, patterns, and responses in <i>intent.json</i> file</li>
+  <li><strong>Step 3. </strong>Delete the <i>words.pkl</i>, <i>classes.pkl</i>, and <i>chatbot.h5</i> files</li>
+  <li><strong>Step 4. </strong>Optional - You can change or play with Neural Network Architecture to suit your requirements</li>
+  <li><strong>Step 4. </strong>Run the <i>model.py</i> file to train your model on custom intents</li>
+  <li><strong>Step 4. </strong>Run the <i>chatbot_application.py</i> file</li>
 </ul>
